@@ -25,7 +25,7 @@
 </a>
 </p>
 
-<h3><span> &#x2193;</span>Download links</h3>
+<h3>Download links</h3>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-1/archive/refs/heads/main.zip">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-1-System/archive/refs/heads/main.zip">HTML Layout Template - System</a></p>
 
@@ -44,7 +44,7 @@
 </a>
 </p>
 
-<h3><span> &#x2193;</span>Download links</h3>
+<h3>Download links</h3>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-2/archive/refs/heads/main.zip">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-2-System/archive/refs/heads/main.zip">HTML Layout Template - System</a></p>
 
@@ -63,7 +63,7 @@
 </a>
 </p>
 
-<h3><span> &#x2193;</span>Download links</h3>
+<h3>Download links</h3>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-3/archive/refs/heads/main.zip">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-3-System/archive/refs/heads/main.zip">HTML Layout Template - System</a></p>
 
@@ -82,7 +82,7 @@
 </a>
 </p>
 
-<h3><span> &#x2193;</span>Download links</h3>
+<h3>Download links</h3>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-4/archive/refs/heads/main.zip">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-4-System/archive/refs/heads/main.zip">HTML Layout Template - System</a></p>
 
@@ -101,6 +101,6 @@
 </a>
 </p>
 
-<h3><span> &#x2193;</span>Download links</h3>
+<h3>Download links</h3>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-5/archive/refs/heads/main.zip">HTML Layout Template - Expansive</a></p>
 <p><a href="https://github.com/RMS-Project-YT/HTML-Layout-5-System/archive/refs/heads/main.zip">HTML Layout Template - System</a></p>
